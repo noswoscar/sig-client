@@ -1,5 +1,5 @@
 <script lang="ts" type="module">
-console.log("first svelte script");
+console.log("First Svelte Script");
 let cities = ["Paris", "Marseille", "Aix", "Toulouse", "Toulon"]
 </script>
 
@@ -14,7 +14,7 @@ let cities = ["Paris", "Marseille", "Aix", "Toulouse", "Toulon"]
     .mapBox {
         width: 50vh;
         height: 50vh;
-        background-color: blue;
+        background-color: lightblue;
         padding: 100px;
     }
 </style>
